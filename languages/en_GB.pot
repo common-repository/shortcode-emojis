@@ -1,0 +1,36 @@
+# Copyright (C) 2016 Shortcode Emojis
+# This file is distributed under the same license as the Shortcode Emojis package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcode Emojis 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shortcode_emojis\n"
+"POT-Creation-Date: 2016-08-18 09:20:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sharon Murphy <webmaster@clarinerd.com>\n"
+
+#: index.php:39
+msgid "Shortcode Emojis"
+msgstr ""
+
+#: index.php:41
+msgid "Click on the emoji you would like to add to your post. It will be inserted right where your pointer is, with a \'shortcode\' tag around it."
+msgstr ""
+
+#: index.php:42
+msgid "NOTE: make sure you are in "Visual" view, not "Text" view."
+msgstr ""
+
+#: index.php:44
+msgid "Sample"
+msgstr ""
+
+#: index.php:51
+msgid "Select an Emoji"
+msgstr ""
+
+#: index.php:65
+msgid "Add Shortcode"
+msgstr ""
